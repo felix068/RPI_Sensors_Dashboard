@@ -1,0 +1,1 @@
+data = await (await fetch("http://169.254.97.26:8085/data.json")).json()
